@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "姚帝的网站" # 标题
+title                    : "姚珺晖的网站" # 标题
 title_separator          : "-"
 name                     : &name "花之岚"
 description              : &description "你好再见"
@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "https://s21.ax1x.com/2024/12/19/pAOJeun.jpg"
   name             : "花之岚"
-  pronouns         : "he" # example: "she/her"  
-  bio              : "个人介绍"
-  location         : "住址"
+  pronouns         : "这是一个天才" # example: "she/her"  
+  bio              : "个人介绍：这个人什么话都没说，但他一点也不懒"
+  location         : "住址：天上人间"
   employer         : "毕业于清华叉院"
   uri              : # URL
   email            : "我的邮箱地址13564896250@163.com" 
