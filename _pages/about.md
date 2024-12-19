@@ -1,6 +1,6 @@
 ---
 permalink: /
-
+title: "# 我叫姚珺晖"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 
-# 我叫 姚珺晖
+
 [你切记](http://www.saszms.edu.cn/main.psp)
 
