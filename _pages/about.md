@@ -8,4 +8,6 @@ redirect_from:
 ---
 
 
-又撒谎实力
+# 我叫 姚珺晖
+[你切记](http://www.saszms.edu.cn/main.psp)
+
