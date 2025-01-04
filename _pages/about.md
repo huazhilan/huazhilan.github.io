@@ -9,5 +9,5 @@ redirect_from:
 
 
 
-[你切记](http://www.saszms.edu.cn/main.psp)
+[你切记](https://www.tsinghua.edu.cn/)
 
