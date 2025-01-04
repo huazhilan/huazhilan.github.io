@@ -9,5 +9,5 @@ redirect_from:
 
 
 
-[你切记](https://www.tsinghua.edu.cn/)
+[你切记](https://iiis.tsinghua.edu.cn/)
 
